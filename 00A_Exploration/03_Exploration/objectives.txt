@@ -1,0 +1,7 @@
+Collection of booking document datasets and pre-processing (when necessary)
+Develop an identification and grouping AI model
+Evaluate the processing capacity and accuracy of the AI model
+Grouping the booking document using our trained document dataset and manual verification
+Develop a document procesing model to extract necessary key-value pairs
+Evalulate the accuracy of the processing model
+Build a basic online web platform using Azure

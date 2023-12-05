@@ -1,0 +1,10 @@
+The project aims to utilize event-based vision to improve daily surveillance for elderly people living alone under low-lighting conditions, detecting accidents in real-time and ensuring timely medical care.
+
+The objectives include
+discovering which deep learning model can be used to utilize event data
+comparing the performance of different approaches,
+collecting more event data/image of human body movements, and training a model capable of detecting human body movements, such as falls or heart attacks.
+
+The value proposition of event-based vision lies in its capability to measure chages in pixel brightness, function effectively under varying lighting conditons, 
+and record any event within the camera's field of view
+making it highly advantageous for real-world applications. However, specialized hardware and suitable methods to handle event data are required to leverage its potential.
